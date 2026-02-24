@@ -1,6 +1,6 @@
-Wave Warp
+# Wave Warp
 
-Author: AyItzmatt
+## Author: AyItzmatt
 
 # Parameter Guide
 
