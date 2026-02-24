@@ -1,0 +1,21 @@
+End User License Agreement (EULA)
+Copyright (c) 2026 AyItzmatt (Matthew Pinto)
+
+By downloading or using this software (the "Script"), you agree to the following terms and conditions:
+
+GRANT OF LICENSE
+AyItzmatt (Matthew Pinto) grants you a non-exclusive, non-transferable right to use the Script for personal, non-commercial, and commercial purposes. You may use the Script to generate artwork, animations, and assets for any commercial or non-commercial project (such as video games, videos, or digital art).
+
+OWNERSHIP OF OUTPUT
+All artwork, animations, or assets generated using this Script remain entirely your property. You are free to sell, distribute, and monetize the creations you make with this tool.
+
+RESTRICTIONS ON REDISTRIBUTION
+You may NOT redistribute, resell, lease, license, sub-license, or share the Script itself, either in its original form or modified.
+You may NOT upload the Script or its source code to public repositories (e.g., GitHub, GitLab), file-sharing networks, or any public websites.
+You may NOT use the Script, its source code, or any modified versions to train, fine-tune, or develop artificial intelligence or machine learning models. Additionally, the Script may not be integrated into AI-driven applications, generators, or automated projects.
+
+MODIFICATION
+You are permitted to modify the Script for your own personal use. However, modified versions of the Script are still subject to the "Restrictions on Redistribution" clause and cannot be distributed or shared.
+
+NO WARRANTY
+THE SCRIPT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SCRIPT OR THE USE OR OTHER DEALINGS IN THE SCRIPT.
