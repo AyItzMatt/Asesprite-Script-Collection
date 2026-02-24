@@ -1,7 +1,7 @@
 # Asesprite-Script-Collection
 A Collection of handy scripts for Aseprite
 
-#License
+# License
 Copyright (c) 2026 AyItzmatt (Matthew Pinto)
 
 By downloading or using this software (the "Script"), you agree to the following terms and conditions:
