@@ -1,4 +1,4 @@
-# Wave Warp
+# Wave 0.6 Quick Guide
 
 ## Author: AyItzmatt
 
@@ -72,6 +72,6 @@ This creates a "clashing" interference pattern that looks like churning liquid.
 
 This script works best on transparent layers. If you use it on a "Background" layer, it may produce unexpected results.
 
-For very large sprites or high frame counts, the generation process might take a few seconds as it calculates every pixel displacement.
+For very large sprites over 128px or high frame counts, the generation process might take a few seconds as it calculates every pixel displacement.
 
 If you cancel the dialog, the script automatically restores your original image to prevent permanent accidental warping.
